@@ -1,8 +1,4 @@
-/*body {
-    background-color: lightblue;
-}*/
-
-nav a{
+nav a{/*this code changes how my links look*/
     color: black;
     padding-left: 125px;
     padding-right: 125px;
@@ -19,17 +15,17 @@ nav a{
   text-decoration:none;  
 }
 
-.uppercase{
+.uppercase{/*this changes the size of the text*/
     text-transform: uppercase;
     font-size: 45px;
 }
 
-img{
+img{/*this CSS changes the size of my picture*/
     width:400px;
     height: auto; 
 }
 
-h1{
+h1{/*this CSS will costomize the H1 HTML code*/
     border:10px double black;
     padding: 10px;
     padding-left: 480px;
@@ -40,14 +36,14 @@ h1{
     border-top-right-radius:50px ;
 }
 
-.textsize{
+.textsize{/*this code is used to capitalize the words*/
     text-transform: uppercase;
     font-size: 30px;
     padding-right: 50px;
     
 }
 
-body{/*this is changing */
+body{/*this is changing the background to an simple image*/
     background-image: url(images/minimal0004.png);
     background-size: cover;
 }
