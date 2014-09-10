@@ -47,25 +47,29 @@ h1{
     
 }
 
-body{
+body{/*this is changing */
     background-image: url(images/minimal0004.png);
     background-size: cover;
 }
 
-/*body{
+/*body{/*this is a secondary background if i want ot change it
     background-image: url(images/landscape0001.png);
     background-size: cover;
 }*/
 
-.textsize2{
+.textsize2{/*this code is used to change the size of the letters*/
     font-size:20px;
 }
 
-.uppercase2{
+.uppercase2{/*this code is used to style the selected writing*/
     text-transform: uppercase;
     font-size: 40px;
     padding-left: 250px;
     padding-right:125px;
      
+}
+
+#link-color{/*this code is CSS and it is supost to change a color of a current selected link*/
+    color: red;
 }
 
